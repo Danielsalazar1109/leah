@@ -4,8 +4,8 @@ import Image from "next/image";
 import { useState } from "react";
 
 const photos = [
-  "/photos/photo1.jpg",
   "/photos/photo2.jpg",
+  "/photos/photo1.jpg",
   "/photos/photo3.jpg",
 ];
 
